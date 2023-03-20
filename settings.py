@@ -77,10 +77,10 @@ DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.mysql',
         'NAME': 'property',
-        'USER': 'root',
-        'PASSWORD': 'Saikiran@123',
-        'HOST': 'localhost',
-        'PORT': '3306',
+        'USER': '*****',
+        'PASSWORD': '******',
+        'HOST': '*****',
+        'PORT': '*****',
     }
 }
 
